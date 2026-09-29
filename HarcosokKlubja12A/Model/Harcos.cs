@@ -8,7 +8,7 @@ namespace HarcosokKlubja12A.Model
 {
     internal class Harcos
     {
-        public string Nev { get; set; } //
+        public string Nev { get; set; } 
         public int EletEro { get; set; }
         public int HarciEro { get; set; }
         public bool MegadtaMagat { get; set; }
